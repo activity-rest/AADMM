@@ -25,3 +25,7 @@ hs_err_pid*
 
 # swap files from editors
 *.swp
+
+# Intelij Files
+*.iml
+.idea
