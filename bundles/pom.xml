@@ -13,6 +13,5 @@
 
 	<modules>
 		<module>metamodel</module>
-		<module>syntax</module>
 	</modules>
 </project>
