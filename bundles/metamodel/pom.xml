@@ -8,11 +8,12 @@
 	<parent>
 		<groupId>br.usp.ffclrp.dcm.lssb.restaurant</groupId>
 		<artifactId>restaurant-bundles</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>1.0.0</version>
 		<relativePath>..</relativePath>
 	</parent>
 
 	<modules>
 		<module>br.usp.ffclrp.dcm.lssb.restaurant.analysisactivitydescription</module>
+		<module>br.usp.ffclrp.dcm.lssb.restaurant.analysisactivitydescription.edit</module>
 	</modules>
 </project>

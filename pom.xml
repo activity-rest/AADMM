@@ -3,8 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<artifactId>restaurant-root</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>dsl</name>
+	<version>1.0.0</version>
+	<name>AADM-Root</name>
 	<packaging>pom</packaging>
 
 	<parent>
